@@ -73,7 +73,7 @@ Developed by:PERARASU K RegisterNumber:25004665
 <img width="1010" height="780" alt="image" src="https://github.com/user-attachments/assets/b3c6b7f1-e483-49ef-9e14-26d8fbba8fc6" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1312" height="551" alt="image" src="https://github.com/user-attachments/assets/811f1158-7649-4a71-b2bd-eb08a754560e" />
+![image](https://github.com/user-attachments/assets/0112237b-5a1a-4b0b-bcf4-c65dd7adc38c)
 
 **RESULTS**
 Thus the T fipflop has been implemented and verified 
